@@ -24,5 +24,6 @@ plans:
 
 ### Updates
 
-- 27/05/2020: Finished migration to .net core and updated to use new OpenTk prelrelease packages for 4.0.
+- 30/08/2022 : Updated to netcore6.0 and OpenTK 4.7 
+- 27/05/2020 : Finished migration to .net core and updated to use new OpenTk prelrelease packages for 4.0.
 - 14/09/2017 : Port To .Net Core 
